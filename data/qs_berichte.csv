@@ -1,0 +1,61 @@
+Datum,Abteilung,Produkt,Fehlerkategorie,Schweregrad,Status,Anzahl_Fehler,Prüfer,Bemerkung
+2025-01-05,Fertigung,Produkt A,Maßabweichung,Kritisch,Offen,3,Müller,Außerhalb Toleranz
+2025-01-08,Fertigung,Produkt B,Oberflächenfehler,Mittel,Behoben,1,Schmidt,Kratzer an Kante
+2025-01-10,Montage,Produkt C,Montagefehler,Kritisch,Offen,2,Weber,Falsche Reihenfolge
+2025-01-12,Fertigung,Produkt A,Materialfehler,Gering,Behoben,4,Müller,Risse im Material
+2025-01-15,QS,Produkt D,Dokumentationsfehler,Gering,Behoben,1,Fischer,Fehlende Signatur
+2025-01-18,Montage,Produkt B,Maßabweichung,Mittel,In Bearbeitung,2,Weber,Bohrung zu groß
+2025-01-20,Fertigung,Produkt C,Oberflächenfehler,Gering,Behoben,5,Schmidt,Lackfehler
+2025-01-22,Logistik,Produkt A,Verpackungsfehler,Mittel,Behoben,3,Bauer,Falsche Etikettierung
+2025-01-25,Fertigung,Produkt D,Maßabweichung,Kritisch,Offen,1,Müller,Höhe außer Toleranz
+2025-01-28,Montage,Produkt B,Montagefehler,Mittel,Behoben,2,Weber,Schrauben nicht angezogen
+2025-02-02,Fertigung,Produkt A,Materialfehler,Gering,Behoben,6,Schmidt,Porosität
+2025-02-05,QS,Produkt C,Dokumentationsfehler,Gering,Behoben,2,Fischer,Fehlende Prüfwerte
+2025-02-08,Fertigung,Produkt B,Oberflächenfehler,Kritisch,Offen,1,Müller,Risse sichtbar
+2025-02-10,Montage,Produkt D,Montagefehler,Mittel,In Bearbeitung,3,Weber,Falsches Bauteil
+2025-02-12,Logistik,Produkt A,Verpackungsfehler,Gering,Behoben,2,Bauer,Beschädigte Verpackung
+2025-02-15,Fertigung,Produkt C,Maßabweichung,Mittel,Behoben,4,Schmidt,Breite außer Toleranz
+2025-02-18,Fertigung,Produkt B,Materialfehler,Kritisch,Offen,1,Müller,Falsche Legierung
+2025-02-20,Montage,Produkt A,Montagefehler,Gering,Behoben,2,Weber,Kabel falsch verlegt
+2025-02-22,QS,Produkt D,Dokumentationsfehler,Mittel,In Bearbeitung,1,Fischer,Prüfbericht fehlt
+2025-02-25,Fertigung,Produkt C,Oberflächenfehler,Gering,Behoben,7,Schmidt,Schleifriefen
+2025-03-01,Fertigung,Produkt A,Maßabweichung,Kritisch,Behoben,2,Müller,Durchmesser zu klein
+2025-03-04,Montage,Produkt B,Montagefehler,Mittel,Behoben,3,Weber,Dichtung vergessen
+2025-03-06,Fertigung,Produkt D,Materialfehler,Gering,Behoben,5,Schmidt,Verfärbungen
+2025-03-10,Logistik,Produkt C,Verpackungsfehler,Mittel,Offen,2,Bauer,Fehlende Schutzfolie
+2025-03-12,QS,Produkt A,Dokumentationsfehler,Gering,Behoben,1,Fischer,Versionsfehler
+2025-03-15,Fertigung,Produkt B,Oberflächenfehler,Kritisch,Offen,2,Müller,Tiefe Kerben
+2025-03-18,Montage,Produkt D,Montagefehler,Mittel,In Bearbeitung,4,Weber,Falscher Anzugsmoment
+2025-03-20,Fertigung,Produkt C,Maßabweichung,Gering,Behoben,3,Schmidt,Länge +0,3mm
+2025-03-22,Fertigung,Produkt A,Materialfehler,Mittel,Behoben,2,Müller,Einschlüsse
+2025-03-25,Logistik,Produkt B,Verpackungsfehler,Gering,Behoben,4,Bauer,Falsche Menge
+2025-04-01,Fertigung,Produkt D,Maßabweichung,Kritisch,Offen,1,Schmidt,Wandstärke kritisch
+2025-04-03,Montage,Produkt A,Montagefehler,Mittel,Behoben,3,Weber,Stecker verkehrt
+2025-04-06,QS,Produkt C,Dokumentationsfehler,Gering,Behoben,2,Fischer,Fehlende Unterschrift
+2025-04-08,Fertigung,Produkt B,Oberflächenfehler,Mittel,Behoben,6,Müller,Fingerabdrücke
+2025-04-10,Fertigung,Produkt A,Materialfehler,Kritisch,Offen,1,Schmidt,Fremdmaterial
+2025-04-12,Montage,Produkt D,Montagefehler,Gering,Behoben,2,Weber,Führung beschädigt
+2025-04-15,Logistik,Produkt C,Verpackungsfehler,Mittel,In Bearbeitung,3,Bauer,Falsche Adresse
+2025-04-18,Fertigung,Produkt B,Maßabweichung,Mittel,Behoben,4,Müller,Winkel außer Toleranz
+2025-04-20,QS,Produkt A,Dokumentationsfehler,Gering,Behoben,1,Fischer,Datum fehlt
+2025-04-22,Fertigung,Produkt D,Oberflächenfehler,Gering,Behoben,8,Schmidt,Oxidationsflecken
+2025-05-02,Fertigung,Produkt A,Maßabweichung,Kritisch,In Bearbeitung,2,Müller,Radius zu groß
+2025-05-05,Montage,Produkt C,Montagefehler,Mittel,Behoben,3,Weber,Sicherung fehlt
+2025-05-08,Fertigung,Produkt B,Materialfehler,Gering,Behoben,5,Schmidt,Lunker
+2025-05-10,Logistik,Produkt D,Verpackungsfehler,Gering,Behoben,2,Bauer,Beschriftung unleserlich
+2025-05-12,QS,Produkt A,Dokumentationsfehler,Mittel,Offen,1,Fischer,Prüfplan veraltet
+2025-05-15,Fertigung,Produkt C,Oberflächenfehler,Kritisch,Offen,1,Müller,Risse nach Härtung
+2025-05-18,Montage,Produkt B,Montagefehler,Mittel,Behoben,4,Weber,Lager falsch eingebaut
+2025-05-20,Fertigung,Produkt D,Maßabweichung,Gering,Behoben,3,Schmidt,Planheit außer Toleranz
+2025-05-22,Fertigung,Produkt A,Materialfehler,Mittel,In Bearbeitung,2,Müller,Sprödigkeit
+2025-05-25,Logistik,Produkt C,Verpackungsfehler,Mittel,Behoben,4,Bauer,Karton beschädigt
+2025-06-02,Fertigung,Produkt B,Maßabweichung,Kritisch,Offen,1,Schmidt,Bohrung versetzt
+2025-06-05,Montage,Produkt A,Montagefehler,Mittel,Behoben,3,Weber,Klemme nicht gesichert
+2025-06-08,QS,Produkt D,Dokumentationsfehler,Gering,Behoben,2,Fischer,Messwerte fehlen
+2025-06-10,Fertigung,Produkt C,Materialfehler,Kritisch,In Bearbeitung,1,Müller,Falsche Charge
+2025-06-12,Logistik,Produkt B,Verpackungsfehler,Gering,Behoben,5,Bauer,Schutzpolster fehlt
+2025-06-15,Fertigung,Produkt A,Oberflächenfehler,Mittel,Behoben,4,Schmidt,Bearbeitungsspuren
+2025-06-18,Montage,Produkt D,Montagefehler,Gering,Behoben,2,Weber,Schraube zu kurz
+2025-06-20,Fertigung,Produkt C,Maßabweichung,Mittel,Offen,3,Müller,Dicke außer Toleranz
+2025-06-22,QS,Produkt B,Dokumentationsfehler,Mittel,In Bearbeitung,1,Fischer,Abzeichnung fehlt
+2025-06-25,Fertigung,Produkt A,Materialfehler,Gering,Behoben,6,Schmidt,Verunreinigungen
