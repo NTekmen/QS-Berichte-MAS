@@ -239,4 +239,5 @@ with st.expander("📄 Rohdaten anzeigen", expanded=False):
     )
 
 st.sidebar.markdown("---")
-st.sidebar.caption("QS-Berichte MAS © 2025")
+from datetime import datetime as _dt
+st.sidebar.caption(f"QS-Berichte MAS © {_dt.now().year}")
